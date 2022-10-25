@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "cweijan.vscode-mysql-client2",
+    "cweijan.vscode-database-client2",
+    "formulahendry.code-runner",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples"
+  ]
+}
