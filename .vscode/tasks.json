@@ -4,7 +4,7 @@
     {
       "label": "Installing dependencies and running your app...",
       "type": "shell",
-      "command": "pip install -r requirements.txt && python demo.py",
+      "command": "pip install -r requirements.txt && sleep 5 && python demo.py",
       "presentation": {
         "reveal": "always",
         "panel": "new"
