@@ -1,9 +1,10 @@
 {
   "recommendations": [
     "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
     "cweijan.vscode-mysql-client2",
-    "formulahendry.code-runner",
-    "VisualStudioExptTeam.vscodeintellicode",
-    "VisualStudioExptTeam.intellicode-api-usage-examples"
+    "formulahendry.code-runner"
   ]
 }
