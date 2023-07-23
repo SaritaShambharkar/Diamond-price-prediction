@@ -1,5 +1,4 @@
-pandas
-numpy
 Flask
 matplotlib
--e .
+numpy
+pandas
