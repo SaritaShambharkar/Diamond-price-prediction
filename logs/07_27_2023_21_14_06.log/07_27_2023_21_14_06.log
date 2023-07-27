@@ -1,0 +1,50 @@
+[ 2023-07-27 21:14:07,831 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-07-27 21:14:07,833 ] 187 werkzeug - INFO -  * Debugger PIN: 334-515-430
+[ 2023-07-27 21:15:16,295 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:15:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2023-07-27 21:15:16,441 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:15:16] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-07-27 21:15:16,457 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:15:16] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-07-27 21:15:16,717 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:15:16] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-07-27 21:15:16,811 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:15:16] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:16:03,662 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:16:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[ 2023-07-27 21:16:03,936 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:16:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:16:03,960 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:16:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:16:04,150 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:16:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:21:13,377 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:21:13] "GET / HTTP/1.1" 200 -
+[ 2023-07-27 21:21:13,610 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:21:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-07-27 21:24:48,631 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:24:48] "GET / HTTP/1.1" 200 -
+[ 2023-07-27 21:27:15,646 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:27:15] "GET / HTTP/1.1" 200 -
+[ 2023-07-27 21:27:16,990 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:27:16] "GET / HTTP/1.1" 200 -
+[ 2023-07-27 21:27:56,961 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:27:56] "GET /predict HTTP/1.1" 200 -
+[ 2023-07-27 21:28:25,692 ] 67 root - INFO - Dataframe Gathered
+[ 2023-07-27 21:28:25,769 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-07-27 21:28:25,930 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:25] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2023-07-27 21:28:25,951 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:25] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2023-07-27 21:28:26,190 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:26] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2023-07-27 21:28:26,260 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:26] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:32,696 ] 67 root - INFO - Dataframe Gathered
+[ 2023-07-27 21:28:32,709 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:32] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-07-27 21:28:32,901 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:32] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:32,906 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:32] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:33,020 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:33] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:33,101 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:33] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:37,377 ] 67 root - INFO - Dataframe Gathered
+[ 2023-07-27 21:28:37,390 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:37] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-07-27 21:28:37,600 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:37,605 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:37,756 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:37,841 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:37] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:48,987 ] 67 root - INFO - Dataframe Gathered
+[ 2023-07-27 21:28:49,000 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-07-27 21:28:49,191 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:49,199 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:49,306 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:28:49,400 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:28:49] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:29:27,407 ] 67 root - INFO - Dataframe Gathered
+[ 2023-07-27 21:29:27,421 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:29:27] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-07-27 21:29:27,616 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:29:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:29:27,630 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:29:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:29:27,724 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:29:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:29:27,856 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:29:27] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-07-27 21:29:55,517 ] 67 root - INFO - Dataframe Gathered
+[ 2023-07-27 21:29:55,528 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:29:55] "POST /predict HTTP/1.1" 200 -
+[ 2023-07-27 21:30:01,155 ] 187 werkzeug - INFO - 172.18.0.2 - - [27/Jul/2023 21:30:01] "GET /predict HTTP/1.1" 200 -
